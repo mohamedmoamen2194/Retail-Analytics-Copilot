@@ -59,5 +59,5 @@ The output contract is exactly what the grader expects:
 - `sample_questions_hybrid_eval.jsonl` – Required six-question eval file.
 - `outputs_hybrid.jsonl` – Latest CLI answers (regenerate after code changes).
 
-That’s it—activate the venv, ensure Ollama is running Phi‑3.5 Mini, and run the CLI to reproduce the published outputs. Log files plus `artifacts/router_metrics.json` document every optimization and inference step.*** End Patch
+That’s it—activate the venv, ensure Ollama is running Phi‑3.5 Mini, and run the CLI to reproduce the published outputs. Log files plus `artifacts/router_metrics.json` document every optimization and inference step.
 
