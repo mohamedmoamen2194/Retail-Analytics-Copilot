@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Retail Analytics Copilot
 
 I built a local-only hybrid agent that answers Northwind retail analytics questions by combining TF‑IDF retrieval over the Markdown corpus with SQL execution on the SQLite dump. Everything ships as a LangGraph with DSPy-powered routing, so I can fine-tune decision points without touching the rest of the stack.
@@ -60,3 +61,6 @@ The output contract is exactly what the grader expects:
 - `outputs_hybrid.jsonl` – Latest CLI answers (regenerate after code changes).
 
 That’s it—activate the venv, ensure Ollama is running Phi‑3.5 Mini, and run the CLI to reproduce the published outputs. Log files plus `artifacts/router_metrics.json` document every optimization and inference step.*** End Patch
+=======
+# Retail-Analytics-Copilot
+>>>>>>> 5aecfc08bdc2c2ea9192b971e08a0b9de389d3b4
