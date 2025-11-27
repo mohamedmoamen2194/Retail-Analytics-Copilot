@@ -1,0 +1,5 @@
+{
+  "metric": "accuracy",
+  "before": 0.375,
+  "after": 1.0
+}
